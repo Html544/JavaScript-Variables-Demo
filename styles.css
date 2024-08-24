@@ -1,0 +1,33 @@
+body {
+            font-family: Arial, sans-serif;
+            background-color: #e8f5e9;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            color: #388e3c;
+        }
+        h1 {
+            color: #2c6c41;
+        }
+        .container {
+            margin: 20px;
+        }
+        .section {
+            margin-bottom: 20px;
+            padding: 20px;
+            border: 1px solid #388e3c;
+            border-radius: 5px;
+            background-color: #c8e6c9;
+        }
+        button {
+            margin: 10px;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #2e7d32;
+            color: white;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #1b5e20;
+        }
